@@ -27,6 +27,13 @@ The project includes:
 * NetBeans
 
 ---
+## OOP Concepts Used
+
+- Encapsulation
+- Inheritance
+- Abstraction
+- Polymorphism
+- Exception Handling
 
 ## Features
 
@@ -40,6 +47,20 @@ The project includes:
 
 ---
 
+## Project Structure
+
+src/com/banking/
+
+- account
+- app
+- auth
+- exception
+- loan
+- model
+- report
+- security
+- transaction
+
 ## How To Run
 
 1. Open project in NetBeans
@@ -48,6 +69,12 @@ The project includes:
 
 ---
 
+## UML Diagram
+
+See UML diagram inside docs folder.
+
 ## Author
 
-Your Name
+M.Khizar
+Inam-ur-Rehman
+Hassnain Abbasi
